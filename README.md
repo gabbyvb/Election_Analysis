@@ -17,14 +17,14 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 The analysis of the election show that:
 - There were 369,711 votes cast.
 - Breakdown of County Votes:
-    Jefferson: 10.5% (38,855)
-    Denver: 82.8% (306,055)
-    Arapahoe: 6.7% (24,801)
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
 - Denver County had the largest number of votes.
 - Breakdown of Candidate Votes:
-    Charles Casper Stockham: 23.0% (85,213)
-    Diana DeGette: 73.8% (272,892)
-    Raymon Anthony Doane: 3.1% (11,606)
+    - Charles Casper Stockham: 23.0% (85,213)
+    - Diana DeGette: 73.8% (272,892)
+    - Raymon Anthony Doane: 3.1% (11,606)
 - Election Results:
     Winner: Diana DeGette
     Winning Vote Count: 272,892
