@@ -14,7 +14,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.7.6, Visual Studio Code: 1.38.1
 
 ## Election-Audit Results
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were 369,711 votes cast.
 - Breakdown of County Votes:
     - Jefferson: 10.5% (38,855)
@@ -26,9 +26,9 @@ The analysis of the election show that:
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
 - Election Results:
-    Winner: Diana DeGette
-    Winning Vote Count: 272,892
-    Winning Percentage: 73.8%
+    - Winner: Diana DeGette
+    - Winning Vote Count: 272,892
+    - Winning Percentage: 73.8%
 
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
